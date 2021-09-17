@@ -4,4 +4,4 @@ Using data collected by [Amlani and Algara (2021)](https://www.sciencedirect.com
 
 ![alt text](https://github.com/yontartu/us-nationalization-trends/blob/master/img/pres_sen_corr_over_time.gif) 
 
-Use this [Bokeh tool]()https://joeygoodman.us/us-nationalization-trends/ to dig into historical county-level results in detail. 
+Use this [Bokeh tool](https://joeygoodman.us/us-nationalization-trends/) to dig into historical county-level results in detail. 
